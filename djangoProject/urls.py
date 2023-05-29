@@ -22,5 +22,6 @@ urlpatterns = [
     path('login/', views.login),
     path('user_list/', views.user_list),
     path('pic/', views.pic),
-    path('zhuangbiwang/',views.duiduidui)
+    path('zhuangbiwang/', views.git),
+    path('zbwmoney/', views.you_money)
 ]
